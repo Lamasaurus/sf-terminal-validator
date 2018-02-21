@@ -1,0 +1,25 @@
+{
+  "name": "sf-terminal-validator",
+  "version": "1.0.0",
+  "description": "Sfvalidator implemented to validate one or a batch of url's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lamasaurus/sf-terminal-validator.git"
+  },
+  "author": "Sander Vanhove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lamasaurus/sf-terminal-validator/issues"
+  },
+  "homepage": "https://github.com/Lamasaurus/sf-terminal-validator#readme",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "cli-table": "^0.3.1",
+    "sfvalidator": "^1.0.6"
+  }
+}
