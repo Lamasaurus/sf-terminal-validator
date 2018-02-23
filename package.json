@@ -20,6 +20,7 @@
   "dependencies": {
     "chalk": "^2.3.1",
     "cli-table": "^0.3.1",
-    "sfvalidator": "^1.0.6"
+    "minimist": "^1.2.0",
+    "sfvalidator": "^1.0.8"
   }
 }
